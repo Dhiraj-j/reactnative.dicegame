@@ -13,12 +13,12 @@ There are two buttons for each player with the help of that buttons players can 
 # Screenshots of the app
 
 ## Home Screen
-![Screenshot](https://raw.github.com/Dhiraj-j/reactnative.dicegame/main/screenshots/Screenshot_1678094821.png)
+<img src="https://raw.github.com/Dhiraj-j/reactnative.dicegame/main/screenshots/Screenshot_1678094821.png" width="500"/>
 
 ## Game Screen
 
-![Screenshot](https://raw.github.com/Dhiraj-j/reactnative.dicegame/main/screenshots/Screenshot_1678094866.png)
+<img src="https://raw.github.com/Dhiraj-j/reactnative.dicegame/main/screenshots/Screenshot_1678094866.png" width="500"/>
 
 ## Winner Screen
 
-![Screenshot](https://raw.github.com/Dhiraj-j/reactnative.dicegame/main/screenshots/Screenshot_1678094871.png)
+<img src="https://raw.github.com/Dhiraj-j/reactnative.dicegame/main/screenshots/Screenshot_1678094871.png" width="500"/>
